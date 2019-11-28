@@ -2,7 +2,7 @@
 Visual testing using Applitools
 
 Steps to Run:
-(1)In the root directory, you need to create a file ".env" which should contain your Applitools API key in format of
+1. In the root directory, you need to create a file ".env" which should contain your Applitools API key in format of
 APPLITOOLS_API_KEY = <your key here>
 2. Run command 'npm i' to install dependencies.
 3. Run 'npm test' for visual test.
