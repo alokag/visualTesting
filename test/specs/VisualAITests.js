@@ -10,6 +10,7 @@ const dashboardURLV1 = "https://demo.applitools.com/hackathonApp.html";
 const loginUrlV2 = 'https://demo.applitools.com/hackathonV2.html';
 const dashboardURLV2 = "https://demo.applitools.com/hackathonAppV2.html";
 
+//Need to assign loginUrlV1 and dashboardURLV1 for first run
 const testurl = loginUrlV2;
 const dashBoardUrl = dashboardURLV2;
 
