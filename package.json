@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/wdio wdio.conf.js --spec test/specs/VisualAITests.js",
-    "traditionalTest": "./node_modules/.bin/wdio wdio.conf.js --spec /test/specs/VisualAITests.js"
+    "traditionalTest": "./node_modules/.bin/wdio wdio.conf.js --spec /test/specs/TraditionalTests.js"
   },
   "keywords": [],
   "author": "alok",
