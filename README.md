@@ -7,7 +7,7 @@
 `APPLITOOLS_API_KEY = <your key here>`
 * Run command `npm i` to install dependencies.
 * Run `npm test` for visual test.
-* Run `npm run traditionalTest` for treditional tests.  
+* Run `npm run traditionalTest` for traditional tests.  
 
 
 # Note: # 
