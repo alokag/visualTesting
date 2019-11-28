@@ -1,4 +1,4 @@
-# visualTesting #
+# visual Testing #
 
 ## Visual testing using Applitools ##
 
